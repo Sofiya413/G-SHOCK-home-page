@@ -1,0 +1,161 @@
+body
+{
+    margin-top: -5px;
+    margin-left:-3px;
+   margin-right: -3px;
+    
+}
+#header
+{
+    /* height: 8%; */
+    width: 100%;
+    background-color: black;
+    padding: 7px;
+   position: fixed;
+}
+
+label
+{
+    color: white;
+    font-size: x-large;
+    font-family: Agency FB;
+    font-weight: bolder;
+    text-indent: 10px;
+}
+#logo
+{
+    text-decoration: none;
+    letter-spacing: 1px;
+    
+}
+nav
+{
+    
+    font-family: Candara;
+    font-size: 13px;
+    text-transform: uppercase;
+}
+#Lmenu,li{
+    display: inline-block;
+    
+}
+
+#left
+{
+    padding-left: 37px;
+  
+    text-decoration: none;
+    color: white;
+}
+#left:hover
+{
+    text-underline-offset: 5px;
+    text-decoration:underline ;
+  
+}
+#Rmenu,li{
+    display: inline-block;
+    
+}
+#Rmenu{
+    float:right;
+}
+#right
+{
+    padding-left: 35px;
+   
+    text-decoration: none;
+    color: white;
+}
+#right:hover
+{
+    text-decoration:underline ;
+    text-underline-offset: 5px;
+}
+#para
+{
+   
+    padding-left: 100px;
+    padding-right: 100px;
+}
+h2
+{
+    font-family:Candara;
+    text-align: justify;
+    color: rgba(0, 0, 0, 0.89);
+    font-weight: bolder;
+    font-size: xx-large;
+    font-style: italic;
+}
+#watch
+{
+    height: 600px;
+    width: 250px;
+    
+}
+.watch_3
+{
+    width: 270px;
+    background-color: black;
+     padding-top: 16px;
+     padding-bottom: 16px;
+}
+.watchBtn
+{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: Candara ;
+    letter-spacing: 1px;
+    font-size: large;
+   
+    width: 280px;
+    
+    color: white;
+}
+.watch_3:hover
+{
+    background-color: rgba(0, 0, 0, 0.897);
+}
+#newwatch
+{
+   font-size: 38px;
+   font-family: Arial, Helvetica, sans-serif; 
+   letter-spacing: 1px;
+   font-weight: bolder;
+   text-align: center;
+   color: black;
+   font-style: unset;
+   text-transform: uppercase;
+}
+ .imaGE
+{
+   
+    height: 180px;
+    width: 130px;
+     /* box-shadow: 1px 2px 4px 3px rgba(0, 0, 0, 0.459); */
+} 
+.imaGE:hover
+{
+   height: 200px;
+   width: 150px;
+   background-attachment: fixed;
+}
+p{
+    text-align: center;
+    font-size: 22px;
+    color: rgb(0, 0, 0);
+    line-height: 30px;
+    font-family: Calibri Light;
+}
+#footer
+{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    margin-bottom: -35px;
+}
+#banner
+{
+    width: 60%;
+   
+}
